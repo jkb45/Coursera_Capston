@@ -1,0 +1,13 @@
+I live in Austin, Texas and in the last 10-15 years a large number of craft breweries have been launched.  
+For background, craft breweries are micro sized beer brewing facilities that make custom flavors & types of beer.   
+Often these craft breweries are launched by people who have very little industrial scale experience - they have just brewed beer at home.
+It is a fairly easy industry to launch in to.  Obviously, creating a craft brewery from scratch is not easy, 
+but the knowledge and capital equipment can be obtained with a reasonable amount.  
+Suppose I am a data scientist disillusioned with my career and wish to start a craft brewery with some business partners.  
+I would like to know where in Austin, Tx would be optimal location to launch my new craft brewery.
+
+The data will be based of the zip codes in Austin, TX.  I will import the Latitude and Longitude of each zip code in Austin, TX.  
+Using Foursquare, I will determine the number of craft breweries in each zip code.  
+In addition to the foursquare data, I will import data about each zip code.
+The criteria I will use to influence my decision are the number of craft breweries already existing in a zip code, 
+the number of people in the zip code, average income in the zip code and average home price in the zip code.
